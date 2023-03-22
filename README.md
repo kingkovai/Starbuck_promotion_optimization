@@ -22,10 +22,10 @@ README.md
 Starbuck can consider demographic details of responding well group for promotion design and use the classifier model to identify the customer for offering the promotion .
 
 #### Github
-  - [Link of Github](https://github.com/kingkovai/Disaster_response.git)
+  - [Link of Github](https://github.com/kingkovai/Starbuck_promotion_optimization.git)
 
 #### Blog
-- [Link of blog post](https://github.com/kingkovai/Disaster_response.git)
+- [Link of blog post](https://medium.com/@kingkovai/starbuck-promotion-strategy-optimization-d8c2624a686e)
   
 
 
