@@ -19,7 +19,7 @@ Starbucks_Capstone_notebook.ipynb # Notebook detailing the step of preprocessing
 README.md 
 
 #### Outcome
-Starbuck can consider demographic details of responding well group for promotion design and use the classifier model to identify the customer for offering the promotion .
+Starbuck can consider demographic details of responding well group for promotion design and use the classifier model to identify the customer for offering the promotion.
 
 #### Github
   - [Link of Github](https://github.com/kingkovai/Starbuck_promotion_optimization.git)
